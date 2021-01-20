@@ -1,0 +1,10 @@
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\bin\Debug\toProtectMyEyes.exe.config
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\bin\Debug\toProtectMyEyes.exe
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\bin\Debug\toProtectMyEyes.pdb
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.csprojAssemblyReference.cache
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.Form1.resources
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.Properties.Resources.resources
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.csproj.GenerateResource.cache
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.csproj.CoreCompileInputs.cache
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.exe
+C:\Users\KYUNGWOO\Desktop\myGithub\CSharp\toProtectMyEyes\toProtectMyEyes\obj\Debug\toProtectMyEyes.pdb
